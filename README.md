@@ -8,7 +8,7 @@ As of June 4th, the following number of problems have been solved:
 
 | Problem Type          | Problems Solved |
 |-----------------------|:---------------:|
-| Introductory Problems |       9/19      |
+| Introductory Problems |      10/19      |
 | Sorting and Searching |       2/35      |
 | Dynamic Programming   |       0/19      |
 | Graph Algorithms      |       2/36      |
@@ -19,4 +19,4 @@ As of June 4th, the following number of problems have been solved:
 | Geometry              |       1/7       |
 | Advanced Techniques   |       0/24      |
 | Additional Problems   |       0/77      |
-| **Total**             |    **23/300**   |
+| **Total**             |    **24/300**   |
