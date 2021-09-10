@@ -45,7 +45,7 @@ void solve(){
  
 int main()
 {
-    //CP();
+    CP();
     int t=1; //cin>>t;
     while(t--)
         solve();
