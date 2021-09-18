@@ -14,9 +14,9 @@ As of June 4th, the following number of problems have been solved:
 | Graph Algorithms      |       2/36      |
 | Range Queries         |       5/19      |
 | Tree Algorithms       |       0/16      |
-| Mathematics           |       3/31      |
+| Mathematics           |       4/31      |
 | String Algorithms     |       1/17      |
 | Geometry              |       1/7       |
 | Advanced Techniques   |       0/24      |
 | Additional Problems   |       0/77      |
-| **Total**             |    **33/300**   |
+| **Total**             |    **34/300**   |
